@@ -1,4 +1,4 @@
-FROM ruby:2.4-alpine
+FROM ruby:2.4-alpine3.6
 
 ENV NODE_VERSION 8.8.1
 
